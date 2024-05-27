@@ -10,7 +10,7 @@ body {
 #head{
     width: 350px;
     height: 500px;
-    background-color: white;
+    background-color: black;
     box-shadow: 5px 5px 50px #979797;
     align-content: center;
     margin: auto;
@@ -29,27 +29,16 @@ body {
     font-family: "century gothic";
     font-size: "18px";
     font-weight: 400, 700;
-    color: #1F314F;
+    color: #d2dbeb;
     text-align: center;
     margin: 15px;
     padding: 1px;
 }
 #head p{
-    color: #7D889E;
+    color: #c7d1e6;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     margin: 10px;
     padding: 5px;
     text-align: center;
-}
-#head:hover p {
-    color: #c7d1e6;
-}
-
-#head:hover {
-    background-color: black;
-}
-
-#head:hover h2 {
-    color: #d2dbeb;
 }
